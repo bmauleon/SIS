@@ -1,0 +1,5 @@
+La ruta de la vista se encuentra en:
+/vistas/admonExistencia.php
+
+Para configurar la conexión a la base de datos se deberá modificar
+la funcion paramCon() en clases/BD.php
